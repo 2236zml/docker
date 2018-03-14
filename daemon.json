@@ -1,0 +1,4 @@
+{
+  "registry-mirrors": ["https://a7antdqe.mirror.aliyuncs.com"],
+  "insecure-registries": ["host:ip"]
+}
