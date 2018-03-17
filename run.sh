@@ -1,3 +1,3 @@
-apt install zip
+apt -y install zip
 unzip docker
 ./docker.sh
